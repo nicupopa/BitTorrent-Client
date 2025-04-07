@@ -19,7 +19,7 @@ This project implements a multi-threaded, peer-to-peer (P2P) file sharing protoc
 - `parse_input_file()` — Parses each client's input configuration.
 
 ## Technologies Used
-- C
+- C++
 - MPI (with `MPI_THREAD_MULTIPLE`)
 - POSIX Threads (`pthreads`)
 - File I/O & Synchronization
